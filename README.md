@@ -36,7 +36,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kanchansain321/kanchansain321/output/snake.svg" alt="Snake animation" />
 
 ###
 
